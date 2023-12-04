@@ -3,7 +3,7 @@
 
 
 
-![coding](https://camo.githubusercontent.com/d6ebdf0be8c981a367c8226b0c0554db04a3235f4018c75ad1951fd67be61cc4/68747470733a2f2f6a75736d61726b746563682e636f6d2f7075626c69632f612f696d616765732f70616765732f7765625f646576656c6f706d656e742e676966)<br>
+![coding](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580975837-LGDSGDVK6EI6PD4KK4W5/python-2.gif)<br>
 🌱 I’m currently learning Full-Stack Development<br>👯 I’m looking to collaborate on UI/UX design and Full-Stack Development<br>🤔 I like: Solving problems, creating new things, running, and music. <br>🤩 I’m exploring different opportunities in Full-Stack Development<br>💬 Ask me about: Front-end and Back-end Development including: JavaScript | Node | CSS | Bootstrap | HTML | React<br>⚡ Passion: I am eager to learn, have strong interpersonal skills, and have the ability to handle pressure and meet deadlines<br>
 ## 🌐 Socials:</br>![logo](https://media.tenor.com/-Fbyl7vqHiYAAAAj/goma-cat.gif)<br>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/gandreabhi/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhishek_gandre/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-gandre/) 
