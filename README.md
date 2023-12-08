@@ -1,5 +1,5 @@
-# 💫 About Me:Hi Sir Ji !!!!
-<h1> Hi 👋, I am Mr.Abhishek Gandre😎</h1> 
+# 💫 About Me:
+<h1> Hi 👋, I am Abhishek Gandre😎</h1> 
 
 
 
